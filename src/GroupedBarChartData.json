@@ -1,0 +1,106 @@
+[{
+        "name": "AVK1",
+        "niva": 1,
+        "termin": "vår19"
+    },
+    {
+        "name": "AVK2",
+        "niva": 5,
+        "termin": "vår19"
+    },
+    {
+        "name": "HÖR",
+        "niva": 2,
+        "termin": "vår19"
+    },
+    {
+        "name": "ORD",
+        "niva": 2,
+        "termin": "vår19"
+    },
+    {
+        "name": "LÄS",
+        "niva": 1,
+        "termin": "vår19"
+    },
+    {
+        "name": "LÄS2",
+        "niva": 2,
+        "termin": "vår19"
+    },
+    {
+        "name": "LÄS3",
+        "niva": 1,
+        "termin": "vår19"
+    },
+    {
+        "name": "AVK1",
+        "niva": 4,
+        "termin": "höst19"
+    },
+    {
+        "name": "AVK2",
+        "niva": 2,
+        "termin": "höst19"
+    },
+    {
+        "name": "HÖR",
+        "niva": 4,
+        "termin": "höst19"
+    },
+    {
+        "name": "ORD",
+        "niva": 3,
+        "termin": "höst19"
+    },
+    {
+        "name": "LÄS",
+        "niva": 2,
+        "termin": "höst19"
+    },
+    {
+        "name": "LÄS2",
+        "niva": 4,
+        "termin": "höst19"
+    },
+    {
+        "name": "LÄS3",
+        "niva": 3,
+        "termin": "höst19"
+    },
+    {
+        "name": "AVK1",
+        "niva": 6,
+        "termin": "vinter19"
+    },
+    {
+        "name": "AVK2",
+        "niva": 3,
+        "termin": "vinter19"
+    },
+    {
+        "name": "HÖR",
+        "niva": 5,
+        "termin": "vinter19"
+    },
+    {
+        "name": "ORD",
+        "niva": 5,
+        "termin": "vinter19"
+    },
+    {
+        "name": "LÄS",
+        "niva": 4,
+        "termin": "vinter19"
+    },
+    {
+        "name": "LÄS2",
+        "niva": 6,
+        "termin": "vinter19"
+    },
+    {
+        "name": "LÄS3",
+        "niva": 4,
+        "termin": "vinter19"
+    }
+]
